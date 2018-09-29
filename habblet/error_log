@@ -1,0 +1,15 @@
+[30-Jul-2018 13:48:29 Europe/Amsterdam] PHP Notice:  Undefined variable: empty in /home/playfirs1/habb0.ml/habblet/myhabbo_store_main.php on line 18
+[30-Jul-2018 13:48:31 Europe/Amsterdam] PHP Notice:  Undefined variable: page in /home/playfirs1/habb0.ml/habblet/myhabbo_store_inventory_items.php on line 18
+[30-Jul-2018 13:48:31 Europe/Amsterdam] PHP Notice:  Undefined variable: page in /home/playfirs1/habb0.ml/habblet/myhabbo_store_inventory_items.php on line 18
+[30-Jul-2018 13:48:32 Europe/Amsterdam] PHP Notice:  Undefined variable: page in /home/playfirs1/habb0.ml/habblet/myhabbo_store_inventory_items.php on line 18
+[30-Jul-2018 13:48:32 Europe/Amsterdam] PHP Notice:  Undefined variable: page in /home/playfirs1/habb0.ml/habblet/myhabbo_store_inventory_items.php on line 18
+[30-Jul-2018 13:48:33 Europe/Amsterdam] PHP Notice:  Undefined variable: page in /home/playfirs1/habb0.ml/habblet/myhabbo_store_inventory_items.php on line 18
+[12-Aug-2018 10:15:16 Europe/Amsterdam] PHP Notice:  Undefined variable: page in /home/playfirs1/habb0.ml/habblet/mytagslist.php on line 18
+[22-Aug-2018 09:40:30 Europe/Amsterdam] PHP Notice:  Undefined variable: page in /home/playfirs1/habb0.ml/habblet/friendmanagement_viewcategory.php on line 18
+[22-Aug-2018 09:40:32 Europe/Amsterdam] PHP Notice:  Undefined variable: page in /home/playfirs1/habb0.ml/habblet/friendmanagement_viewcategory.php on line 18
+[22-Aug-2018 09:40:38 Europe/Amsterdam] PHP Notice:  Undefined variable: empty in /home/playfirs1/habb0.ml/habblet/myhabbo_store_main.php on line 18
+[22-Aug-2018 09:40:40 Europe/Amsterdam] PHP Notice:  Undefined variable: page in /home/playfirs1/habb0.ml/habblet/myhabbo_store_inventory_items.php on line 18
+[28-Aug-2018 16:07:29 Europe/Amsterdam] PHP Notice:  Undefined variable: page in /home/playfirs1/habb0.ml/habblet/myhabbo_avatarlist_friendsearchpaging.php on line 18
+[28-Aug-2018 16:07:29 Europe/Amsterdam] PHP Notice:  Undefined variable: page in /home/playfirs1/habb0.ml/habblet/myhabbo_avatarlist_friendsearchpaging.php on line 18
+[28-Aug-2018 16:07:29 Europe/Amsterdam] PHP Notice:  Undefined variable: page in /home/playfirs1/habb0.ml/habblet/myhabbo_avatarlist_friendsearchpaging.php on line 18
+[28-Aug-2018 16:07:31 Europe/Amsterdam] PHP Notice:  Undefined variable: page in /home/playfirs1/habb0.ml/habblet/myhabbo_avatarlist_friendsearchpaging.php on line 18
