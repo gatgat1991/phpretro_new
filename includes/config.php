@@ -30,9 +30,9 @@ $conn['main']['prefix'] = "cms_";
 $conn['main']['server'] = "mysql"; //mysql, pgsql, sqlite, or mssql
 $conn['main']['host'] = "localhost"; //filename for SQLite
 $conn['main']['port'] = "3306";
-$conn['main']['username'] = "playfirs1_habb0";
-$conn['main']['password'] = "XOPB4Xfhb1vP";
-$conn['main']['database'] = "playfirs1_habb0";
+$conn['main']['username'] = "";
+$conn['main']['password'] = "";
+$conn['main']['database'] = "";
 
 //	****** HOTEL DATABASE SETTINGS ******
 //  EXPERIMENTAL!! Only turn this on if you know what to do. Please submit all
@@ -42,7 +42,7 @@ $conn['server']['enabled'] = false;
 $conn['server']['server'] = "mysql"; //mysql, pgsql, sqlite, or mssql
 $conn['server']['host'] = "localhost"; //filename for SQLite
 $conn['server']['port'] = "3306";
-$conn['server']['username'] = "playfirs1_habb0";
-$conn['server']['password'] = "XOPB4Xfhb1vP";
-$conn['server']['database'] = "playfirs1_habb0";
+$conn['server']['username'] = "";
+$conn['server']['password'] = "";
+$conn['server']['database'] = "";
 ?>
